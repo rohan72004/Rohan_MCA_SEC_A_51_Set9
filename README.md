@@ -86,7 +86,7 @@ Rohan_MCA_SEC_A_51_Set9/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone or download the repository
 2. Open project in VS Code / Eclipse
@@ -106,13 +106,13 @@ Rohan_MCA_SEC_A_51_Set9/
 
 ---
 
-## 📸 Output
+##  Output
 
 Program execution screenshots are available in the `screenshots` folder.
 
 ---
 
-## 📢 Declaration
+##  Declaration
 
 This project is my original work and has been completed as part of the DBMS & Java assignment.
 
