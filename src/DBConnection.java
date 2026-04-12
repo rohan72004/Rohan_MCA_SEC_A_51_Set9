@@ -6,7 +6,7 @@ public class DBConnection {
         try {
             String url = "jdbc:mysql://localhost:3306/gym_locker";
             String user = "root";
-            String pass = "Yadu@123"; 
+            String pass = "your_password"; 
             con = DriverManager.getConnection(url, user, pass);
         } catch (Exception e) {
             e.printStackTrace();
