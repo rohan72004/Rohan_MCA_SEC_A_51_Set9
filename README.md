@@ -14,7 +14,7 @@
 
 * **Subject:** DBMS & Core Java
 * **Set Number:** 9
-* **Problem Title:** Gym Locker Management System
+* **Problem Title:** Gym Locker Management System.
 
 ---
 
